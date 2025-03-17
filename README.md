@@ -31,7 +31,7 @@ This tool allows users to:
   bash
   Copy
   Edit
-  git clone https://github.com/your-username/VicunaQA.git
+  git clone https://github.com/Moaz-Alhasani/VicunaQA---A-Document-based-Q-A-System-with-Summarization
   cd VicunaQA
   Install the required libraries:
 
